@@ -1,3 +1,6 @@
+- **My Role:** Data analysis, preprocessing, Streamlit deployment, presentation
+- **Tech:** Python, Scikit-learn, Streamlit, Hugging Face
+
 # 🌿 PLANTIFY---SMART-PLANT-MONITORING-SYSTEM
 
 ### Empowering Thriving Plants Through Intelligent Care
